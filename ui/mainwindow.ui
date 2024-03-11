@@ -662,7 +662,7 @@
     <string notr="true">Tcp Ping</string>
    </property>
    <property name="shortcut">
-    <string notr="true">Ctrl+T</string>
+    <string notr="true">T</string>
    </property>
   </action>
   <action name="menu_url_test">
@@ -670,7 +670,7 @@
     <string notr="true">Url Test</string>
    </property>
    <property name="shortcut">
-    <string notr="true">Ctrl+U</string>
+    <string notr="true">R</string>
    </property>
   </action>
   <action name="menu_clear_test_result">
@@ -678,7 +678,7 @@
     <string>Clear Test Result</string>
    </property>
    <property name="shortcut">
-    <string notr="true">Ctrl+Shift+C</string>
+    <string notr="true">Shift+C</string>
    </property>
   </action>
   <action name="menu_export_config">
@@ -720,7 +720,7 @@
     <string>Remove Duplicates</string>
    </property>
    <property name="shortcut">
-    <string notr="true">Ctrl+Shift+D</string>
+    <string notr="true">Shift+D</string>
    </property>
   </action>
   <action name="actionfake">
@@ -768,7 +768,7 @@
     <string>Remove Unavailable</string>
    </property>
    <property name="shortcut">
-    <string notr="true">Ctrl+Shift+R</string>
+    <string notr="true">Shift+R</string>
    </property>
   </action>
   <action name="menu_full_test">
@@ -776,7 +776,7 @@
     <string>Full Test</string>
    </property>
    <property name="shortcut">
-    <string notr="true">Alt+F</string>
+    <string notr="true">F</string>
    </property>
   </action>
   <action name="menu_hotkey_settings">
@@ -845,7 +845,7 @@
     <string>Update subscription</string>
    </property>
    <property name="shortcut">
-    <string notr="true">Ctrl+Shift+U</string>
+    <string notr="true">Shift+U</string>
    </property>
   </action>
   <action name="menu_resolve_domain">
@@ -853,7 +853,7 @@
     <string>Resolve domain</string>
    </property>
    <property name="shortcut">
-    <string notr="true">Ctrl+Shift+I</string>
+    <string notr="true">Shift+I</string>
    </property>
   </action>
   <action name="menu_vpn_settings">
