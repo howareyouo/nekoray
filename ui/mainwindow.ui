@@ -613,7 +613,7 @@
     <string>Stop</string>
    </property>
    <property name="shortcut">
-    <string notr="true">Ctrl+S</string>
+    <string notr="true">Backspace</string>
    </property>
   </action>
   <action name="menu_routing_settings">
@@ -651,9 +651,6 @@
    <property name="text">
     <string>QR Code and link</string>
    </property>
-   <property name="shortcut">
-    <string notr="true">Ctrl+Q</string>
-   </property>
   </action>
   <action name="menu_copy_link">
    <property name="text">
@@ -665,7 +662,7 @@
     <string notr="true">Tcp Ping</string>
    </property>
    <property name="shortcut">
-    <string notr="true">Ctrl+Shift+T</string>
+    <string notr="true">Ctrl+T</string>
    </property>
   </action>
   <action name="menu_url_test">
@@ -673,7 +670,7 @@
     <string notr="true">Url Test</string>
    </property>
    <property name="shortcut">
-    <string notr="true">Ctrl+Shift+U</string>
+    <string notr="true">Ctrl+U</string>
    </property>
   </action>
   <action name="menu_clear_test_result">
@@ -687,9 +684,6 @@
   <action name="menu_export_config">
    <property name="text">
     <string>Export %1 config</string>
-   </property>
-   <property name="shortcut">
-    <string notr="true">Ctrl+E</string>
    </property>
   </action>
   <action name="menu_reset_traffic">
@@ -782,7 +776,7 @@
     <string>Full Test</string>
    </property>
    <property name="shortcut">
-    <string notr="true">Ctrl+Shift+F</string>
+    <string notr="true">Alt+F</string>
    </property>
   </action>
   <action name="menu_hotkey_settings">
@@ -851,7 +845,7 @@
     <string>Update subscription</string>
    </property>
    <property name="shortcut">
-    <string notr="true">Ctrl+U</string>
+    <string notr="true">Ctrl+Shift+U</string>
    </property>
   </action>
   <action name="menu_resolve_domain">
